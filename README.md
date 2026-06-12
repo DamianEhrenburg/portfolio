@@ -22,7 +22,7 @@ I focus on building small complete products: application logic, user interface, 
 | **Moodcast** | Python, Telegram Bot API, Hugging Face, REST API, JSON | Telegram bot that recommends movies and TV shows based on the user's mood. |
 | **AeroNet** | Python, Telegram Bot API, Google Sheets API | Telegram bot for collecting customer applications and saving them to Google Sheets. |
 | **Freedom in Rot: Prologue** | Godot 4, GDScript, UI, localization | Short first-person psychological horror prototype published on itch.io. |
-| **Incident 21:37** | Godot 4, GDScript, 3D, UI | Work-in-progress PSX-style horror project with task system, in-game time and interactive objects. |
+| **Incident 21:37** | Godot 4, GDScript, 3D, UI, localization | Work-in-progress PSX-style horror project with task system, in-game time and interactive objects. |
 
 ---
 
