@@ -12,7 +12,7 @@ This repository collects the projects I can show with screenshots and short note
 |---|---|---|
 | Quietfolio | Desktop app | TypeScript, React, Electron, SQLite |
 | Incident 21:37 | Game prototype | Godot 4, GDScript, 3D |
-| Freedom in Rot: Prologue | Published game prototype | Godot 4, GDScript |
+| Freedom in Rot: Prologue | Published game prototype | Godot 4, GDScript, 3D |
 | Moodcast | Telegram bot | Python, Telegram Bot API, Hugging Face |
 | AeroNet | Telegram bot | Python, Telegram Bot API, Google Sheets API |
 
@@ -72,7 +72,7 @@ Telegram bot that recommends movies and TV shows from a mood description.
 It uses a conversational flow, external movie data and an NLP model from Hugging Face.
 
 <p>
-  <img src="moodcast-demo.png" alt="Moodcast Telegram bot demo" width="100%">
+  <img src="moodcast-demo.png" alt="Moodcast Telegram bot demo" width="55%">
 </p>
 
 ---
@@ -84,7 +84,7 @@ Telegram bot for collecting customer applications and saving them to Google Shee
 The bot guides the user through a form, validates input and exports the collected data.
 
 <p>
-  <img src="aeronet-demo.png" alt="AeroNet Telegram bot demo" width="100%">
+  <img src="aeronet-demo.png" alt="AeroNet Telegram bot demo" width="55%">
 </p>
 
 ---
@@ -93,9 +93,9 @@ The bot guides the user through a form, validates input and exports the collecte
 
 Some screenshots show Russian-language interfaces because the projects were originally designed for Russian-speaking users.
 
-Some game prototypes use third-party assets, music or sound effects. Credits are listed inside the projects where applicable.
+Some game screenshots include third-party assets. In **Incident 21:37**, the apartment scene uses **House Interior | PSX Asset Pack** by McPato, and the street scene uses **PSX Style Urban Stacked Pack** by valsekamerplant. Scene setup, interaction logic, UI, game flow, lighting and Godot implementation are my work.
 
-For Incident 21:37, third-party PSX-style asset packs are used as a base for some environments. Scene setup, interaction logic, UI, task flow, visual style integration and implementation are done in Godot.
+For **Freedom in Rot: Prologue**, third-party assets, music and sound effects are credited inside the game.
 
 ---
 
