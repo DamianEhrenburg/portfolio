@@ -61,6 +61,8 @@ The bot guides the user through a form, validates input and saves the collected 
   <img src="aeronet-demo.png" alt="AeroNet Telegram bot demo" width="55%">
 </p>
 
+Repository: https://github.com/DamianEhrenburg/aeronet
+
 ---
 
 ## Incident 21:37
