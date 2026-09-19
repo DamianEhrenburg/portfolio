@@ -47,6 +47,8 @@ The bot uses a conversational flow, external movie data and an NLP model from Hu
   <img src="moodcast-demo.png" alt="Moodcast Telegram bot demo" width="55%">
 </p>
 
+Repository: https://github.com/DamianEhrenburg/moodcast
+
 ---
 
 ## AeroNet
