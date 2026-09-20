@@ -10,11 +10,11 @@ This repository collects projects I can show with screenshots and short notes.
 
 | Project | Type | Stack |
 |---|---|---|
-| Quietfolio | Desktop app | TypeScript, React, Electron, SQLite |
-| Moodcast | Telegram bot | Python, Telegram Bot API, Hugging Face, REST API |
-| AeroNet | Telegram bot | Python, Telegram Bot API, Google Sheets API, REST API |
-| Incident 21:37 | Game prototype | Godot 4, GDScript, 3D |
-| Freedom in Rot: Prologue | Published game prototype | Godot 4, GDScript, 3D |
+| [**Quietfolio**](#quietfolio) | Desktop app | TypeScript, React, Electron, SQLite |
+| [**Moodcast**](#moodcast) | Telegram bot | Python, Telegram Bot API, Hugging Face, REST API, SQLite |
+| [**AeroNet**](#aeronet) | Telegram bot | Python, Telegram Bot API, Google Sheets API, SQLite |
+| [**Incident 21:37**](#incident-2137) | Game prototype | Godot 4, GDScript, 3D |
+| [**Freedom in Rot: Prologue**](#freedom-in-rot-prologue) | Published game prototype | Godot 4, GDScript, 3D |
 
 ---
 
@@ -41,7 +41,7 @@ Repository: https://github.com/DamianEhrenburg/quietfolio
 
 Telegram bot that recommends movies and TV shows from a mood description.
 
-The bot uses a conversational flow, external movie data and an NLP model from Hugging Face.
+The bot classifies mood and plot themes with a Hugging Face NLP model, scores recommendations against Kinopoisk, and lets users save bookmarks to a local SQLite database.
 
 <p>
   <img src="moodcast-demo.png" alt="Moodcast Telegram bot demo" width="55%">
@@ -55,7 +55,7 @@ Repository: https://github.com/DamianEhrenburg/moodcast
 
 Telegram bot for collecting customer applications and saving them to Google Sheets.
 
-The bot guides the user through a form, validates input and saves the collected data to Google Sheets through an external API.
+The bot guides the user through a step-by-step form, validates phone numbers, saves submissions to a local SQLite database, and syncs them to Google Sheets.
 
 <p>
   <img src="aeronet-demo.png" alt="AeroNet Telegram bot demo" width="55%">
@@ -82,7 +82,7 @@ The current build includes apartment and street scenes, interactable objects, ta
 
 Short first-person horror prototype published on itch.io.
 
-The project includes first-person interaction, several endings, UI, settings, credits and Russian/English localization.
+The project includes first-person interaction, 5 distinct endings, CRT monitor effects, sound design, UI, settings, credits and Russian/English localization.
 
 <p>
   <img src="freedom-in-rot-door.png" alt="Freedom in Rot dark doorway scene" width="49%">
