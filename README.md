@@ -106,5 +106,4 @@ For Freedom in Rot: Prologue, third-party assets, music and sound effects are cr
 ## Links
 
 - GitHub profile: https://github.com/DamianEhrenburg
-- Personal website: https://damianehrenburg.neocities.org
-- Freedom in Rot: Prologue: https://d-ehrenburg.itch.io/freedom-in-rot
+- Itch.io profile: https://d-ehrenburg.itch.io
